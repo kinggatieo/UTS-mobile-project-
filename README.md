@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+Selamat Datang di Aplikasi Expo Anda 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Ini adalah proyek Expo (https://expo.dev) yang dibuat dengan create-expo-app (https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Mulai
 
-1. Install dependencies
+1. Instal dependensi
 
-   ```bash
    npm install
-   ```
 
-2. Start the app
+2. Jalankan aplikasinya
 
-   ```bash
    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+Pada hasil output, Anda akan menemukan beberapa opsi untuk membuka aplikasi di:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- development build (https://docs.expo.dev/develop/development-builds/introduction/) — versi pengembangan
+- Android emulator (https://docs.expo.dev/workflow/android-studio-emulator/) — emulator Android
+- iOS simulator (https://docs.expo.dev/workflow/ios-simulator/) — simulator iOS
+- Expo Go (https://expo.dev/go), yaitu lingkungan terbatas untuk mencoba pengembangan aplikasi dengan Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Anda dapat mulai mengembangkan aplikasi dengan mengedit file di dalam direktori app. Proyek ini menggunakan file-based routing (https://docs.expo.dev/router/introduction) — penentuan rute berdasarkan struktur file.
 
-## Get a fresh project
+## Dapatkan proyek baru
 
-When you're ready, run:
+Ketika Anda siap, jalankan perintah berikut:
 
-```bash
-npm run reset-project
-```
+   npm run reset-project
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Perintah ini akan memindahkan kode awal ke direktori app-example dan membuat direktori app kosong tempat Anda bisa mulai mengembangkan.
 
-## Learn more
+## Pelajari lebih lanjut
 
-To learn more about developing your project with Expo, look at the following resources:
+Untuk mempelajari lebih lanjut tentang pengembangan proyek Anda dengan Expo, lihat sumber berikut:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Dokumentasi Expo (https://docs.expo.dev/): Pelajari dasar-dasarnya, atau dalami topik lanjutan melalui panduan (https://docs.expo.dev/guides).
+- Tutorial Belajar Expo (https://docs.expo.dev/tutorial/introduction/): Ikuti tutorial langkah demi langkah untuk membuat proyek yang dapat dijalankan di Android, iOS, dan web.
 
-## Join the community
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+setelah selesai membuat project file yang baru download file ini dan copy ke root project dan gantikan semua files di dalam pakai file ini
