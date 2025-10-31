@@ -38,3 +38,5 @@ Untuk mempelajari lebih lanjut tentang pengembangan proyek Anda dengan Expo, lih
 
 
 setelah selesai membuat project file yang baru download file ini dan copy ke root project dan gantikan semua files di dalam pakai file ini
+
+video loom untuk cara memakai aplikasi https://www.loom.com/share/92b6cc63013a490a82d0a15666a4a1fc
